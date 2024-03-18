@@ -1,2 +1,2 @@
-# avr-simple-programable-timer
-A simple timer using AVR architecture
+# AVR Simple Programable Timer
+This is a simple timer using AVR architecture, it allaws users to set a s
