@@ -1,4 +1,4 @@
-# AVR Simple Programable Timer
+# AVR Programable Timer
 This is a simple timer using AVR architecture that allows users to set a time and counts down untill it reachs zero then turns on the buzzer and led, the user can then return the timer to it's defualt state and reprogram it.
 
 ## ⚡Components
@@ -26,9 +26,5 @@ https://github.com/eslamsamy226/avr-simple-programable-timer/assets/128985943/2c
 
 I have also implemented this project in hardware:
 
-
-
-Uploading hardware_edited.mp4…
-
-
+https://github.com/eslamsamy226/avr-simple-programable-timer/assets/128985943/c6e21221-19e8-4db7-8456-c650cee029b6
 
