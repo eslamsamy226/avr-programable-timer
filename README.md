@@ -1,2 +1,34 @@
 # AVR Simple Programable Timer
-This is a simple timer using AVR architecture, it allaws users to set a s
+This is a simple timer using AVR architecture that allows users to set a time and counts down untill it reachs zero then turns on the buzzer and led, the user can then return the timer to it's defualt state and reprogram it.
+
+## ⚡Components
+ The following components have been used:
+ * ATMEGA32 MCU
+ * LED
+ * Buzzer
+ * 7-segment
+ * Bush buttons
+
+## 🛠️Drivers
+In order to achive the project funtionality I wrote the following drivers:
+* DIO
+* Buzzer
+* Led
+* 7-segment
+these drivers can be found in /src forlder
+
+## 👨‍💻Simulation
+The proteus simulation design can be found in (Design.DSN) file, here is the simulation in action:
+
+https://github.com/eslamsamy226/avr-simple-programable-timer/assets/128985943/2c57786b-f1ef-456a-97e2-92307b95c0af
+
+## 🔳Hardware
+
+I have also implemented this project in hardware:
+
+
+
+Uploading hardware_edited.mp4…
+
+
+
