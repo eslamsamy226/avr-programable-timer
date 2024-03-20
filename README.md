@@ -1,5 +1,5 @@
 # AVR Programable Timer
-This is a simple timer using AVR architecture that allows users to set a time and counts down untill it reachs zero then turns on the buzzer and led, the user can then return the timer to it's defualt state and reprogram it.
+This is a simple timer uses AVR architecture allowing users to set a time and counts down untill it reachs zero then turns on the buzzer and led, the user can then return the timer to it's defualt state and reprogram it.
 
 ## ⚡Components
  The following components have been used:
