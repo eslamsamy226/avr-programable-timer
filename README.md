@@ -7,7 +7,7 @@ This is a simple timer using AVR architecture that allows users to set a time an
  * LED
  * Buzzer
  * 7-segment
- * Bush buttons
+ * Push buttons
 
 ## 🛠️Drivers
 In order to achive the project funtionality I wrote the following drivers:
@@ -23,7 +23,6 @@ The proteus simulation design can be found in (Design.DSN) file, here is the sim
 https://github.com/eslamsamy226/avr-simple-programable-timer/assets/128985943/2c57786b-f1ef-456a-97e2-92307b95c0af
 
 ## 🔳Hardware
-
 I have also implemented this project in hardware:
 
 https://github.com/eslamsamy226/avr-simple-programable-timer/assets/128985943/c6e21221-19e8-4db7-8456-c650cee029b6
